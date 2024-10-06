@@ -1,3 +1,6 @@
+#K-NEAREST NEIGHBORS
+#stores all the available cases and classifies new cases based on a similarity measure
+#K in KNN is the nearest neighbors we wish to take the vote from
 # Import necessary libraries
 import numpy as np
 import pandas as pd
